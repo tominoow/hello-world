@@ -6,11 +6,11 @@
     <meta name="description" content="La Zone Apprentissage des documents web
     du MDN a pour but de donner aux débutants du Web tout ce qu'ils doivent
     savoir pour commencer le développement de pages webs et d'applications.">
-    <title>Truc de ouf</title>
+    <meta name="title" content="Weesper - Talent Referral Platform">
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   </head>
   <body>
-    <h1>Connect great people to great jobs. Get rewared.</h1>
+    <h1>&lt;h1&gt; element</h1>
       <p>J'aime me beurrer la biscotte</p>
       <p>Spécialement en étant bien accompagné.</p>
   </body>
