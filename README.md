@@ -10,7 +10,7 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   </head>
   <body>
-    <h1>&lt;h1&gt; element</h1>
+    <h1>Connect great people to great jobs. Get rewarded.</h1>
       <p>J'aime me beurrer la biscotte</p>
       <p>Spécialement en étant bien accompagné.</p>
   </body>
